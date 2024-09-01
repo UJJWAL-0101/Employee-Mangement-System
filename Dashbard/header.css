@@ -1,0 +1,13 @@
+.dashboard{
+    /* background-color: black; */
+    text-decoration:white;
+}
+
+.emp-dash{
+    text-align: center;
+    text-decoration: overline;
+    /* text-decoration:solid; */
+    background-color: bisque;
+    color: chartreuse;
+}
+

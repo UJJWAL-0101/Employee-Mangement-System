@@ -1,0 +1,22 @@
+
+
+
+body{
+    /* background-color:aqua; */
+    background-image: linear-gradient(to bottom, #f0f0f0)
+}
+.btn-1{
+    background-color: red;
+}
+.btn-2{
+     background-color: green;
+}
+.table{
+    background-color: brown;
+    color: aquamarine;
+}
+ .login{
+    background-color: blue;
+    align-items: center;
+ }
+

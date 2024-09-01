@@ -1,0 +1,20 @@
+.login{
+    justify-content: center;
+    display: flex;
+    background-color: aliceblue;
+    padding-top: 10%;
+    text-align: justify;
+    
+
+}
+
+.head1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-decoration:underline;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-display: swap;
+    /* background-color: antiquewhite; */
+}
